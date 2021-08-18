@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫
   - Email:[2099432021@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=yvj68-P__fj6_PuKu7vkqaWn)
   - Gitee:[qkmango](https://gitee.com/qkmango)
-  - homework:[qkmango.cn](https://qkmango.gitee.io/homepage/)
+  - homepage:[qkmango.cn](https://qkmango.gitee.io/homepage/)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qkmango)](https://github.com/qkmango/github-readme-stats)
